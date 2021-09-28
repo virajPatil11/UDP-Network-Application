@@ -1,6 +1,6 @@
 # UDP-Application
 
-##How to Use
+## How to Use
 
 1. First, run Sender.java.
 
